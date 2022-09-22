@@ -41,7 +41,7 @@ public class Registration{
         reg.printStarters();
         LOGGER.info("Starter wurden angezeigt.");
         reg.saveStarters();
-        LOGGER.info("Starter wurden in CSV-Datei gespeichert.");
+        LOGGER.info("Starter wurden in CSV-Datei  ihfsd gespeichert.");
     
     }
     private void readAndAddStarter(){
